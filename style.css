@@ -190,6 +190,7 @@ section {
 
 .section__text__p1 {
   text-align: center;
+  margin-top: 2rem;
 }
 
 .section__text__p2 {
@@ -298,9 +299,10 @@ section {
 }
 
 .about-pic {
+  margin-top: 1rem;
   border-radius: 2rem;
-  width: 400px;
-  height: 400px;
+  width: 20rem;
+  height: 20rem;
 }
 
 .arrow {
@@ -443,8 +445,9 @@ footer p {
 
 /* profile picture */
 .profile-pic {
-  height: 20rem;
-  width: 20rem;
+  height: 16rem;
+  width: 16rem;
+  margin-bottom: 1rem;
   border-radius: 50%;
   object-fit: cover;
   /* display: block; */
